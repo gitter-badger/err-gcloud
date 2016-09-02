@@ -41,3 +41,8 @@ License
 -------
 
 Apache 2.0 - See [LICENSE] for more information.
+
+
+.. image:: https://badges.gitter.im/GoogleCloudPlatform/err-gcloud.svg
+   :alt: Join the chat at https://gitter.im/GoogleCloudPlatform/err-gcloud
+   :target: https://gitter.im/GoogleCloudPlatform/err-gcloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
